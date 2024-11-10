@@ -140,9 +140,9 @@ High-capital projects (such as infrastructure expansion and R&D in low-carbon te
 
 **Oil Price Sensitivity:** As prices reamins unstable, these companies adjust manufacturing to maximize profitability. It’s reasonable to presume that a breakeven oil price for these companies would be around $30-$35 per barrel, given their efficient operations and low production costs.
 
-**Capital Expenditure:** Investments are directed towards both enhancing recent manufacturing capacity and developing downstream capabilities, which diversify income streams and reduce dependence on crude oil prices.✓
+**Capital Expenditure:** Investments are directed towards both enhancing recent manufacturing capacity and developing downstream capabilities, which diversify income streams and reduce dependence on crude oil prices.
 
-**Global Market Conditions:** Postulating global demand continues its slow recovery post-2024, income growth for Middle Eastern oil giants should be consistent  as economies recover, especially in Asia.✓
+**Global Market Conditions:** Postulating global demand continues its slow recovery post-2024, income growth for Middle Eastern oil giants should be consistent  as economies recover, especially in Asia.
 
 
 **7. Conclusion and Strategic Recommendations**
