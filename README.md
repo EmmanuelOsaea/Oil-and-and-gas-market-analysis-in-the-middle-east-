@@ -1,6 +1,6 @@
 # Oil-and-and-gas-market-analysis-in-the-middle-east-
 
-**Industry Overview**
+**1. Industry Overview**
 
 **Market Size & Demand:** The global oil and gas industry stays  highly beneficial, with the Middle East playing a crucial role due to its broad reserves and influence over manufacturing  stages. The major products include crude oil, natural gas, and petrochemical products, which are all subject to instability based on global needs, regulatory changes, and technological advancements.The Middle East is a region with a history of geopolitical instability, which can disorganise energy production  and exports. For example, Iran and Syria have experienced reduced production levels due to permissions levied on them for their involvement in local disagreements.Slowing upstream capex growth
 The Middle East's upstream oil and gas capital expenditure (capex) growth is expected to taper off  significantly contrast to other regions. 
