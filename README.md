@@ -1,8 +1,8 @@
 # Oil-and-and-gas-market-analysis-in-the-middle-east-
 
-**1. Industry Overview**
+**Industry Overview**
 
-**Market Size & Demand:** *The global oil and gas industry stays  highly beneficial, with the Middle East playing a crucial role due to its broad reserves and influence over manufacturing  stages. The major products include crude oil, natural gas, and petrochemical products, which are all subject to instability based on global needs, regulatory changes, and technological advancements.The Middle East is a region with a history of geopolitical instability, which can disorganise energy production  and exports. For example, Iran and Syria have experienced reduced production levels due to permissions levied on them for their involvement in local disagreements.Slowing upstream capex growth
+**Market Size & Demand:** The global oil and gas industry stays  highly beneficial, with the Middle East playing a crucial role due to its broad reserves and influence over manufacturing  stages. The major products include crude oil, natural gas, and petrochemical products, which are all subject to instability based on global needs, regulatory changes, and technological advancements.The Middle East is a region with a history of geopolitical instability, which can disorganise energy production  and exports. For example, Iran and Syria have experienced reduced production levels due to permissions levied on them for their involvement in local disagreements.Slowing upstream capex growth
 The Middle East's upstream oil and gas capital expenditure (capex) growth is expected to taper off  significantly contrast to other regions. 
  
 **Declining global share**
@@ -15,7 +15,7 @@ The Middle East's upstream capex growth is expected to be 9.4% in 2024, compared
 In 2024, energy investment in the Middle East is anticipated to reach around $175 billion, with clean energy accounting for about 15% of the total. 
  
 **1Net zero emissions**
-Five countries in the region have set net zero emission targets, with the UAE and Oman aiming to obtain this by 2050 and Saudi Arabia, Bahrain, and Kuwait aiming for 2060.
+Five countries in the region have set net zero emission targets, with the UAE and Oman aiming to obtain this by 2050 and Saudi Arabia, Bahrain, and Kuwait aiming for 206
  
 **Oil supply**
 The global oil distribution is expected to surpass demand by 1.2 million barrels per day in 2025, due to a number of factors including a slowdown in China's oil demand and increased manufacturing rate from non-OPEC+ countries. 
